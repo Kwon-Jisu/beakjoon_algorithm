@@ -1,5 +1,5 @@
 """
-네이버 부스트캠프 알고리즘 스터디: 파도반 수열
+네이버 부스트캠프 알고리즘 스터디: 구간합 구하기
 https://www.acmicpc.net/problem/11659
 """
 import sys

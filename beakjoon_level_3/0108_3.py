@@ -1,5 +1,5 @@
 """
-네이버 부스트캠프 알고리즘 스터디: 파도반 수열
+네이버 부스트캠프 알고리즘 스터디: 2×n 타일링
 https://www.acmicpc.net/problem/11726
 """
 import sys
