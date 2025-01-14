@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b367cde3-2efd-423e-bd13-39ccd99cb6c7" name="Changes" comment="Beakjoon Algorithm">
-      <change afterPath="$PROJECT_DIR$/beakjoon_level_3/0113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beakjoon_level_3/0114.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b367cde3-2efd-423e-bd13-39ccd99cb6c7" name="Changes" comment="Beakjoon Algorithm" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -300,7 +296,7 @@
       <workItem from="1736469634324" duration="1965000" />
       <workItem from="1736729631588" duration="2401000" />
       <workItem from="1736751597868" duration="144000" />
-      <workItem from="1736817269821" duration="314000" />
+      <workItem from="1736817269821" duration="909000" />
     </task>
     <task id="LOCAL-00001" summary="Beakjoon Algorithm">
       <option name="closed" value="true" />
