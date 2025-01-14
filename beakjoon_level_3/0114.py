@@ -1,3 +1,7 @@
+"""
+네이버 부스트캠프 알고리즘 스터디: DFS/BFS 알고리즘
+https://www.acmicpc.net/problem/1260
+"""
 from collections import deque
 import sys
 input = sys.stdin.readline
