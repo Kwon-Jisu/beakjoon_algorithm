@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b367cde3-2efd-423e-bd13-39ccd99cb6c7" name="Changes" comment="Beakjoon Algorithm">
-      <change afterPath="$PROJECT_DIR$/beakjoon_level_3/0117_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beakjoon_level_3/0117_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beakjoon_level_3/0120.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -302,7 +301,7 @@
       <workItem from="1736729631588" duration="2401000" />
       <workItem from="1736751597868" duration="144000" />
       <workItem from="1736817269821" duration="1520000" />
-      <workItem from="1736924966970" duration="1339000" />
+      <workItem from="1736924966970" duration="2889000" />
     </task>
     <task id="LOCAL-00001" summary="Beakjoon Algorithm">
       <option name="closed" value="true" />
@@ -370,10 +369,11 @@
     <SUITE FILE_PATH="coverage/Ajou_Algorithm$1216_2.coverage" NAME="1216_2 Coverage Results" MODIFIED="1734080142528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NAVER" />
     <SUITE FILE_PATH="coverage/Ajou_Algorithm$1205_1.coverage" NAME="1205_1 Coverage Results" MODIFIED="1733402118616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NAVER" />
     <SUITE FILE_PATH="coverage/Ajou_Algorithm$1211_2.coverage" NAME="1211_2 Coverage Results" MODIFIED="1733820634518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NAVER" />
-    <SUITE FILE_PATH="coverage/Ajou_Algorithm$0107_2.coverage" NAME="0107_2 Coverage Results" MODIFIED="1736210671532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beakjoon_level_3" />
     <SUITE FILE_PATH="coverage/Ajou_Algorithm$1210_1.coverage" NAME="1210_1 Coverage Results" MODIFIED="1733761094252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NAVER" />
+    <SUITE FILE_PATH="coverage/Ajou_Algorithm$0107_2.coverage" NAME="0107_2 Coverage Results" MODIFIED="1736210671532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beakjoon_level_3" />
     <SUITE FILE_PATH="coverage/Ajou_Algorithm$1219_2.coverage" NAME="1219_2 Coverage Results" MODIFIED="1734539613434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beakjoon_level_2" />
     <SUITE FILE_PATH="coverage/Ajou_Algorithm$1218_1.coverage" NAME="1218_1 Coverage Results" MODIFIED="1734416757965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NAVER_2412" />
+    <SUITE FILE_PATH="coverage/Ajou_Algorithm$0117_1.coverage" NAME="0117_1 Coverage Results" MODIFIED="1737043053026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beakjoon_level_3" />
     <SUITE FILE_PATH="coverage/Ajou_Algorithm$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1735137076729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ajou_Algorithm$1218_3.coverage" NAME="1218_3 Coverage Results" MODIFIED="1734461228874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NAVER_2412" />
     <SUITE FILE_PATH="coverage/Ajou_Algorithm$1210_2.coverage" NAME="1210_2 Coverage Results" MODIFIED="1733762706455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NAVER" />
@@ -382,8 +382,8 @@
     <SUITE FILE_PATH="coverage/Ajou_Algorithm$1202_3.coverage" NAME="1202_3 Coverage Results" MODIFIED="1733123471327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NAVER" />
     <SUITE FILE_PATH="coverage/Ajou_Algorithm$triangle.coverage" NAME="triangle Coverage Results" MODIFIED="1733120536965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NAVER" />
     <SUITE FILE_PATH="coverage/Ajou_Algorithm$1219_3.coverage" NAME="1219_3 Coverage Results" MODIFIED="1734566507924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beakjoon_level_2" />
-    <SUITE FILE_PATH="coverage/Ajou_Algorithm$1226_1.coverage" NAME="1226_1 Coverage Results" MODIFIED="1735138669115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beakjoon_level_2" />
     <SUITE FILE_PATH="coverage/Ajou_Algorithm$1216_1.coverage" NAME="1216_1 Coverage Results" MODIFIED="1734074744257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NAVER" />
+    <SUITE FILE_PATH="coverage/Ajou_Algorithm$1226_1.coverage" NAME="1226_1 Coverage Results" MODIFIED="1735138669115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beakjoon_level_2" />
     <SUITE FILE_PATH="coverage/Ajou_Algorithm$1204_1.coverage" NAME="1204_1 Coverage Results" MODIFIED="1733300428393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NAVER" />
     <SUITE FILE_PATH="coverage/Ajou_Algorithm$1203_3.coverage" NAME="1203_3 Coverage Results" MODIFIED="1733249341822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NAVER" />
     <SUITE FILE_PATH="coverage/Ajou_Algorithm$1227_1.coverage" NAME="1227_1 Coverage Results" MODIFIED="1735199155411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beakjoon_level_3" />
