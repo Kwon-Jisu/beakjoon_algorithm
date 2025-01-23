@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b367cde3-2efd-423e-bd13-39ccd99cb6c7" name="Changes" comment="Beakjoon Algorithm">
-      <change afterPath="$PROJECT_DIR$/beakjoon_level_3/0121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beakjoon_level_3/0122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beakjoon_level_3/0123.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -303,6 +304,9 @@
       <workItem from="1736817269821" duration="1520000" />
       <workItem from="1736924966970" duration="3099000" />
       <workItem from="1737416491329" duration="224000" />
+      <workItem from="1737416717801" duration="1404000" />
+      <workItem from="1737507816761" duration="327000" />
+      <workItem from="1737591223496" duration="579000" />
     </task>
     <task id="LOCAL-00001" summary="Beakjoon Algorithm">
       <option name="closed" value="true" />
